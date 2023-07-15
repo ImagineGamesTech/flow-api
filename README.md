@@ -1,2 +1,2 @@
-# flow-api
+# Flow API
 An API for my game Flow.
