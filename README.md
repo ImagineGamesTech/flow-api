@@ -6,7 +6,7 @@ Every URL starts with 'imaginegamestech.github.io/flow-api/<parameters>'.
 #### Profile
 If you have the ID of the account, use /profile/<profile id>.
 #### Profile Without ID
-If you do not know the ID of the account, use /profileidget/<username>, which will give you the ID of the username provided. Then use /profile/<profile id>.
+If you do not know the ID of the account, use /account-id/<username>, which will give you the ID of the username provided. Then use /profile/<profile id>.
 
 ## API V2
 COMING SOON WITH THE RELEASE OF THE SEQUEL!
